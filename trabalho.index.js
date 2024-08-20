@@ -1,3 +1,4 @@
+// Não Pude testar 100% do código
 let addSentimentos = []
 
 function armazenarSentimento(novosSentimentos) { // Função para armazenar sentimentos
